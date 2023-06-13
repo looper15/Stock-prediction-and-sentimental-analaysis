@@ -10,8 +10,7 @@ from tensorflow.keras.layers import Dense, LSTM
 import pytz
 import plotly.figure_factory as ff
 from plotly import graph_objs as go
-from prophet import Prophet
-from prophet.plot import plot_plotly
+
 
 
 # Define a function to show the dropdown options for the selected country
